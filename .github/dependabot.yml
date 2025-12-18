@@ -13,4 +13,5 @@ updates:
       - "dependabot-version-update"
     commit-message: 
       prefix: "DEPENDABOT VERSION UPDATES"
+    open-pull-requests-limit: 0      
       
